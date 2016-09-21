@@ -51,3 +51,19 @@
 - [base64-使用ASCII编码二进制数据](./base64-使用ASCII编码二进制数据.org)
   
   base64模块包含了一些函数用于将二进制数据转码为ASCII字符的子集.以便实现通过明文协议传递二进制数据.
+
+- [Lists和Tuples大对决](./Lists和Tuples大对决.md)
+
+    常见的Python初学者问题：列表和元组之间有何区别？答案是，有两个不同的差异，以及两者之复杂的相互作用。这就是技术差异和文化差异。
+
+- [解释python中的*args和**kwargs](./解释python中的*args和**kwargs.md)
+
+    我发现，大多数的Python新手程序员很难搞清楚\*args和\*\*kwargs魔术变量。所以，它们是什么呢？
+
+- [深度探索Python：让我们审查dict模块](./深度探索Python：让我们审查dict模块.md)
+
+    Dictobject.c是Python的dict对象背后的模块。它非常常用，但有一些鲜为人知的秘密，这些秘密对于了解最佳性能非常有用
+
+- [不可不知的一点Python陷阱](./不可不知的一点Python陷阱.md)
+
+    在这篇文章中，它主要针对Python新手，会看到少量安全相关的小技巧；有经验的开发者可能会注意到后面的特殊性。
